@@ -1,5 +1,12 @@
 Smart Object Framework
 
+This code branch is obsolete and deprecated. 
+IoT Toolkit is now part of the ConnectIOT project being hosted on Github
+
+Please go to: https://github.com/connectiot/iottoolkit
+
+for the development branch of this software. 
+
 The Smart Object Framework is a reference 
 implementation of the Smart Model API described at:
 
